@@ -1,6 +1,6 @@
 # Olá, eu sou o Jorge 👋
 
-Analista de Testes com foco em automação e qualidade de software, atuando em produtos web e mobile para o setor educacional e financeiro.
+Analista de Testes com foco em automação e qualidade de software.
 
 ## 🔧 O que eu faço
 - Testes funcionais (web e mobile/Android)
