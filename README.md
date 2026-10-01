@@ -10,8 +10,6 @@ Analista de Testes com foco em automação e qualidade de software.
 - Automação (Selenium, Appium, Pytest)
 - Experiência em meios de pagamento (EMV, ISO 8583)
 
-## 📚 Aprendendo agora
-Testes de API com Playwright + TypeScript
 
 ## 🛠️ Stack
 `Selenium` `Appium` `Pytest` `Python` `SQL` `PostgreSQL` `Postman` `Git`
