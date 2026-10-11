@@ -2,7 +2,7 @@
 
 Analista de Testes há mais de 2 anos, com foco em automação e qualidade de software.
 Atuo em testes funcionais web e mobile, automação de UI e testes de API, e hoje
-aprofundo a automação de API com **Playwright + TypeScript**.
+aprofundo a automação com **Playwright + TypeScript**.
 
 ## 🔧 O que eu faço
 
